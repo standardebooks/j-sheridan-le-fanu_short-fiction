@@ -31,9 +31,15 @@
 		<dc:subject id="subject-1">Short stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85121813</meta>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-2">Ghost stories</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh85054811</meta>
+		<dc:subject id="subject-3">Ireland--Fiction</dc:subject>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008104236</meta>
+		<dc:subject id="subject-4">Fantasy fiction, English</dc:subject>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85047125</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
@@ -44,9 +50,19 @@
 		<dc:language>en-GB</dc:language>
 		<!-- SOURCES -->
 		<!-- Text Sources -->
-		<dc:source>PG_URL</dc:source>
+		<!-- The Purcell Papers, Volume 1, text source for: -->
+		<!-- * The Ghost and the Bone Setter -->
+		<!-- * The Fortunes of Sir Robert Ardagh -->
+		<!-- * The Last Heir of Castle Connor -->
+		<!-- * The Drunkard's Dream -->
+		<dc:source>https://www.gutenberg.org/ebooks/509</dc:source>
 		<!-- Image Sources -->
-		<dc:source>IA_URL</dc:source>
+		<!-- The Purcell Papers, Volume 1, image source for: -->
+		<!-- * The Ghost and the Bone Setter -->
+		<!-- * The Fortunes of Sir Robert Ardagh -->
+		<!-- * The Last Heir of Castle Connor -->
+		<!-- * The Drunkard's Dream -->
+		<dc:source>https://archive.org/details/purcellpapers01lefa</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -62,9 +78,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willem_Kalf</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n90718235</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
