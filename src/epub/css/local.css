@@ -128,16 +128,6 @@ footer{
 	text-align: center;
 }
 
-#the-room-in-the-dragon-volant-chapter-23 blockquote{
-	font-variant: small-caps;
-	text-align: center;
-}
-
-#the-room-in-the-dragon-volant-chapter-23 blockquote p,
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
