@@ -70,6 +70,8 @@
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
 		<!-- The Purcell Papers, Volume 1 (same stories as above)-->
 		<dc:source>https://archive.org/details/purcellpapers01lefa</dc:source>
+		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
+		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
