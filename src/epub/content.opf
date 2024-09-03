@@ -40,6 +40,9 @@
 		<dc:subject id="subject-4">Fantasy fiction, English</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85047125</meta>
+		<dc:subject id="subject-5">Paranormal fiction</dc:subject>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh98004865</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
@@ -50,6 +53,12 @@
 		<dc:language>en-GB</dc:language>
 		<!-- SOURCES -->
 		<!-- Text Sources -->
+		<!-- In a Glass Darkly, text source for: -->
+		<!-- * Green Tea -->
+		<!-- * The Familiar-->
+		<!-- * Mr. Justice Harbottle -->
+		<!-- * Carmilla -->
+		<dc:source>https://www.gutenberg.org/ebooks/37172</dc:source>
 		<!-- The Purcell Papers, Volume 1, text source for: -->
 		<!-- * The Ghost and the Bone Setter -->
 		<!-- * The Fortunes of Sir Robert Ardagh -->
@@ -57,11 +66,9 @@
 		<!-- * The Drunkard's Dream -->
 		<dc:source>https://www.gutenberg.org/ebooks/509</dc:source>
 		<!-- Image Sources -->
-		<!-- The Purcell Papers, Volume 1, image source for: -->
-		<!-- * The Ghost and the Bone Setter -->
-		<!-- * The Fortunes of Sir Robert Ardagh -->
-		<!-- * The Last Heir of Castle Connor -->
-		<!-- * The Drunkard's Dream -->
+		<!-- In a Glass Darkly (same stories as above)-->
+		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
+		<!-- The Purcell Papers, Volume 1 (same stories as above)-->
 		<dc:source>https://archive.org/details/purcellpapers01lefa</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -82,6 +89,15 @@
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Andrea Ball</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Ball, Andrea</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Christine Bell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Bell, Christine</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">D’Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
@@ -90,6 +106,13 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Kenneth Williams</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Williams, Kenneth</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://scriptdaemon.me</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
