@@ -110,6 +110,10 @@ p span.i1{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:postscript"] header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
