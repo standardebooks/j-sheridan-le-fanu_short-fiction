@@ -78,13 +78,20 @@
 		<!-- * The Quare Gander -->
 		<!-- * Billy Malowney's Taste of Love and Glory -->
 		<dc:source>https://www.gutenberg.org/ebooks/511</dc:source>
+		<!-- The Watcher and Other Stories, text source for The Watcher -->
+		<dc:source>https://www.gutenberg.org/ebooks/40510</dc:source>
 		<!-- Image Sources -->
+		<!-- The Dublin University Magazine -->
+		<!-- * Secondary image source (includes subtitle) for The Watcher (vol. 30)-->
+		<dc:source>https://catalog.hathitrust.org/Record/000529297</dc:source>
 		<!-- In a Glass Darkly (same stories as above)-->
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
 		<!-- The Purcell Papers, Volumes 1-3 (same stories as above)-->
 		<dc:source>https://archive.org/details/purcellpapers01lefa</dc:source>
 		<dc:source>https://archive.org/details/purcellpapers02lefa</dc:source>
 		<dc:source>https://archive.org/details/purcellpapers03fanugoog</dc:source>
+		<!-- The Watcher and Other Stories, image source for The Watcher -->
+		<dc:source>https://archive.org/details/watcherotherweir00lefarich/</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
@@ -115,6 +122,16 @@
 		<dc:contributor id="transcriber-4">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">eagkw</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">eagkw</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-7">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
