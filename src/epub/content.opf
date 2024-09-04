@@ -65,11 +65,18 @@
 		<!-- * The Last Heir of Castle Connor -->
 		<!-- * The Drunkard's Dream -->
 		<dc:source>https://www.gutenberg.org/ebooks/509</dc:source>
+		<!-- The Purcell Papers, Volume 2, text source for: -->
+		<!-- * Passage in the Secret History of an Irish Countess -->
+		<!-- * The Bridal of Carrigvarah -->
+		<!-- * Strange Event in the Life of Schalken the Painter -->
+		<!-- * Scraps of Hibernian Ballads -->
+		<dc:source>https://www.gutenberg.org/ebooks/510</dc:source>
 		<!-- Image Sources -->
 		<!-- In a Glass Darkly (same stories as above)-->
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
-		<!-- The Purcell Papers, Volume 1 (same stories as above)-->
+		<!-- The Purcell Papers, Volumes 1-3 (same stories as above)-->
 		<dc:source>https://archive.org/details/purcellpapers01lefa</dc:source>
+		<dc:source>https://archive.org/details/purcellpapers02lefa</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
