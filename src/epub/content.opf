@@ -80,9 +80,14 @@
 		<dc:source>https://www.gutenberg.org/ebooks/511</dc:source>
 		<!-- The Watcher and Other Stories, text source for The Watcher -->
 		<dc:source>https://www.gutenberg.org/ebooks/40510</dc:source>
+		<!-- J. S. Le Fanu's Ghostly Tales, vol. 4, text source for: -->
+		<!-- * The Mysterious Lodger -->
+		<!-- * Ghost Stories of Chapelizod -->
+		<dc:source>https://www.gutenberg.org/ebooks/12647</dc:source>
 		<!-- Image Sources -->
 		<!-- The Dublin University Magazine -->
 		<!-- * Secondary image source (includes subtitle) for The Watcher (vol. 30)-->
+		<!-- * Image source for The Mysterious Lodger (vol. 35) -->
 		<dc:source>https://catalog.hathitrust.org/Record/000529297</dc:source>
 		<!-- In a Glass Darkly (same stories as above)-->
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
@@ -92,6 +97,19 @@
 		<dc:source>https://archive.org/details/purcellpapers03fanugoog</dc:source>
 		<!-- The Watcher and Other Stories, image source for The Watcher -->
 		<dc:source>https://archive.org/details/watcherotherweir00lefarich/</dc:source>
+		<!-- Madam Crowl's Ghost ed. M.R. James, image source for: -->
+		<!-- * Ghost Stories of Chapelizod -->
+		<!-- * Some Strange Disturbances in an Old House... -->
+		<!-- * Ultor de Lacy -->
+		<!-- * Wicked Captain Walshawe -->
+		<!-- * Squire Toby's Will -->
+		<!-- * The Child That Went with the Fairies -->
+		<!-- * Stories of Lough Guir -->
+		<!-- * Vision of Tom Chuff, The -->
+		<!-- * White Cat of Drumgunniol, The -->
+		<!-- * Dickon the Devil -->
+		<!-- * Squire Dominick's Bargain -->
+		<dc:source>https://catalog.hathitrust.org/Record/103102106</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
@@ -132,6 +150,12 @@
 		<meta property="file-as" refines="#transcriber-7">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-7">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Mehan, Mary</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Project Gutenberg Beginners Projects</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Project Gutenberg Beginners Projects</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
