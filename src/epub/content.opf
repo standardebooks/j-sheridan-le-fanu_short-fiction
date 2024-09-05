@@ -112,7 +112,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/103102106</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The story "Madam Crowl's Ghost" has been omitted here, as it was later interpolated into the novel "A Strange Adventure in the Life of Miss Laura Mildmay."</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-sheridan-le-fanu_short-fiction</meta>
