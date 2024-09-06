@@ -43,6 +43,9 @@
 		<dc:subject id="subject-5">Paranormal fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh98004865</meta>
+		<dc:subject id="subject-6">Horror tales</dc:subject>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh85062084</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
