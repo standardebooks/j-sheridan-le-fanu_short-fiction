@@ -80,6 +80,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/511</dc:source>
 		<!-- The Watcher and Other Stories, text source for The Watcher -->
 		<dc:source>https://www.gutenberg.org/ebooks/40510</dc:source>
+		<!-- J. S. Le Fanu's Ghostly Tales, vol. 1, text source for: -->
+		<!-- * Some Strange Disturbances in an Old House... -->
+		<dc:source>https://www.gutenberg.org/ebooks/11699</dc:source>
 		<!-- J. S. Le Fanu's Ghostly Tales, vol. 4, text source for: -->
 		<!-- * The Mysterious Lodger -->
 		<!-- * Ghost Stories of Chapelizod -->
