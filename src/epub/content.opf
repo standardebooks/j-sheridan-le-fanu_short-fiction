@@ -86,6 +86,10 @@
 		<!-- J. S. Le Fanu's Ghostly Tales, vol. 1, text source for: -->
 		<!-- * Some Strange Disturbances in an Old House... -->
 		<dc:source>https://www.gutenberg.org/ebooks/11699</dc:source>
+		<!-- J. S. Le Fanu's Ghostly Tales, vol. 2, text source for: -->
+		<!-- * Ultor de Lacy -->
+		<!-- * An Authentic Narrative of a Haunted House -->
+		<dc:source>https://www.gutenberg.org/ebooks/11700</dc:source>
 		<!-- J. S. Le Fanu's Ghostly Tales, vol. 4, text source for: -->
 		<!-- * The Mysterious Lodger -->
 		<!-- * Ghost Stories of Chapelizod -->
@@ -95,6 +99,7 @@
 		<!-- * Secondary image source (includes subtitle) for The Watcher (vol. 30)-->
 		<!-- * Image source for The Mysterious Lodger (vol. 35) -->
 		<!-- * Image Source for Some Gossip About Chapelizod (vol. 37) -->
+		<!-- * Image Source for An Authentic Narrative... (vol. 60) -->
 		<dc:source>https://catalog.hathitrust.org/Record/000529297</dc:source>
 		<!-- In a Glass Darkly (same stories as above)-->
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
