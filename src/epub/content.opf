@@ -102,6 +102,8 @@
 		<!-- * Dickon the Devil -->
 		<!-- * Laura Silver Bell -->
 		<dc:source>https://www.gutenberg.org/ebooks/12647</dc:source>
+		<!-- Madam Crowl's Ghost and The Dead Sexton, text source for The Dead Sexton -->
+		<dc:source>https://www.gutenberg.org/ebooks/11610</dc:source>
 		<!-- Image Sources -->
 		<!-- The Dublin University Magazine -->
 		<!-- * Secondary image source (includes subtitle) for The Watcher (vol. 30)-->
@@ -134,6 +136,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/103102106</dc:source>
 		<!-- Belgravia, source for Laura Silver Bell (vol. 16 [1872] Christmas annual) -->
 		<dc:source>https://catalog.hathitrust.org/Record/012466628</dc:source>
+		<!-- Once a Week, source for The Dead Sexton (vol. 8 [1871] Christmas annual) -->
+		<dc:source>https://www.google.com/books/edition/Once_a_Week/GthMAAAAMAAJ</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
 		<meta property="se:production-notes">The story "Madam Crowl's Ghost" has been omitted here, as it was later interpolated into the novel "A Strange Adventure in the Life of Miss Laura Mildmay."</meta>
@@ -182,6 +186,9 @@
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-10">Riikka Talonpoika</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Talonpoika, Riikka</meta>
+		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-10">Gregory Margo</dc:contributor>
+		<meta property="file-as" refines="#transcriber-10">Margo, Gregory</meta>
 		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
