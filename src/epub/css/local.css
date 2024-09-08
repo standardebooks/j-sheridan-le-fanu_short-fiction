@@ -88,6 +88,11 @@ p span.i1{
 	text-indent: -1em;
 }
 
+p span.i2{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
 [epub|type~="z3998:recipient"]{
 	font-style: italic;
 }
