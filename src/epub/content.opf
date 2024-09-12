@@ -102,7 +102,9 @@
 		<!-- * Dickon the Devil -->
 		<!-- * Laura Silver Bell -->
 		<dc:source>https://www.gutenberg.org/ebooks/12647</dc:source>
-		<!-- Madam Crowl's Ghost and The Dead Sexton, text source for The Dead Sexton -->
+		<!-- Madam Crowl's Ghost and The Dead Sexton, text source for: -->
+		<!-- Madam Crowl's Ghost -->
+		<!-- The Dead Sexton -->
 		<dc:source>https://www.gutenberg.org/ebooks/11610</dc:source>
 		<!-- Madam Crowl's Ghost and Other Tales of Mystery, text source for: -->
 		<!-- * Squire Toby's Will -->
@@ -128,6 +130,7 @@
 		<!-- The Watcher and Other Stories, image source for The Watcher -->
 		<dc:source>https://archive.org/details/watcherotherweir00lefarich/</dc:source>
 		<!-- Madam Crowl's Ghost ed. M.R. James, image source for: -->
+		<!-- * Madam Crowl's Ghost -->
 		<!-- * Ghost Stories of Chapelizod -->
 		<!-- * Some Strange Disturbances in an Old House... -->
 		<!-- * Ultor de Lacy -->
@@ -235,6 +238,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/jim-sulivans-adventure-in-the-great-snow.xhtml" id="jim-sulivans-adventure-in-the-great-snow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/laura-silver-bell.xhtml" id="laura-silver-bell.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/madam-crowls-ghost.xhtml" id="madam-crowls-ghost.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-justice-harbottle.xhtml" id="mr-justice-harbottle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-aunt-margarets-adventure.xhtml" id="my-aunt-margarets-adventure.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/passage-in-the-secret-history-of-an-irish-countess.xhtml" id="passage-in-the-secret-history-of-an-irish-countess.xhtml" media-type="application/xhtml+xml"/>
@@ -302,6 +306,7 @@
 		<itemref idref="the-white-cat-of-drumgunniol.xhtml"/>
 		<itemref idref="stories-of-lough-guir.xhtml"/>
 		<itemref idref="the-vision-of-tom-chuff.xhtml"/>
+		<itemref idref="madam-crowls-ghost.xhtml"/>
 		<itemref idref="carmilla.xhtml"/>
 		<itemref idref="the-dead-sexton.xhtml"/>
 		<itemref idref="mr-justice-harbottle.xhtml"/>
