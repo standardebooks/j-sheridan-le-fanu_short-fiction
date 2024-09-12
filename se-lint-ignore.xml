@@ -12,6 +12,12 @@
 			<reason>Capitalization confused by abbr tag.</reason>
 		</ignore>
 	</file>
+	<file path="ghost-stories-of-chapelizod.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Sentence intentionally ends with no punctuation.</reason>
+		</ignore>
+	</file>
 	<file path="jim-sulivans-adventure-in-the-great-snow.xhtml">
 		<ignore>
 			<code>s-023</code>
