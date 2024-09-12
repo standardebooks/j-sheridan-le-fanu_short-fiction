@@ -112,6 +112,7 @@
 		<!-- Image Sources -->
 		<!-- The Dublin University Magazine -->
 		<!-- * Secondary image source (includes subtitle) for The Watcher (vol. 30)-->
+		<!-- * Image and trans. source for The Fatal Bride (vol. 31) -->
 		<!-- * Image source for The Mysterious Lodger (vol. 35) -->
 		<!-- * Image Source for Some Gossip About Chapelizod (vol. 37) -->
 		<!-- * Image Source for Borrhomeo the Astrologer (vol. 59) -->
@@ -202,6 +203,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Kenneth Williams</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Williams, Kenneth</meta>
