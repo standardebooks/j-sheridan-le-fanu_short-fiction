@@ -123,6 +123,8 @@
 		<!-- * Image Source for An Authentic Narrative... (vol. 60) -->
 		<!-- * Image Source for My Aunt Margaret's Adventure (vol. 63) -->
 		<dc:source>https://catalog.hathitrust.org/Record/000529297</dc:source>
+		<!-- Additional copy of the D.U.M. vol. 63, used to provide lacuna -->
+		<dc:source>https://books.google.ie/books?id=iaU6AQAAMAAJ</dc:source>
 		<!-- In a Glass Darkly (same stories as above)-->
 		<dc:source>https://books.google.com/books?id=0FLQAAAAMAAJ</dc:source>
 		<!-- The Purcell Papers, Volumes 1-3 (same stories as above)-->
