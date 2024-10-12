@@ -200,9 +200,9 @@
 		<dc:contributor id="transcriber-10">Riikka Talonpoika</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Talonpoika, Riikka</meta>
 		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-10">Gregory Margo</dc:contributor>
-		<meta property="file-as" refines="#transcriber-10">Margo, Gregory</meta>
-		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-11">Gregory Margo</dc:contributor>
+		<meta property="file-as" refines="#transcriber-11">Margo, Gregory</meta>
+		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Christopher Hapka</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Hapka, Christopher</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
