@@ -261,7 +261,7 @@
 		<item href="text/the-familiar.xhtml" id="the-familiar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fatal-bride.xhtml" id="the-fatal-bride.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fortunes-of-sir-robert-ardagh.xhtml" id="the-fortunes-of-sir-robert-ardagh.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-ghost-and-the-bone-setter.xhtml" id="the-ghost-and-the-bone-setter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ghost-and-the-bonesetter.xhtml" id="the-ghost-and-the-bonesetter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-heir-of-castle-connor.xhtml" id="the-last-heir-of-castle-connor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mysterious-lodger.xhtml" id="the-mysterious-lodger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-quare-gander.xhtml" id="the-quare-gander.xhtml" media-type="application/xhtml+xml"/>
@@ -277,7 +277,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="the-ghost-and-the-bone-setter.xhtml"/>
+		<itemref idref="the-ghost-and-the-bonesetter.xhtml"/>
 		<itemref idref="the-fortunes-of-sir-robert-ardagh.xhtml"/>
 		<itemref idref="the-last-heir-of-castle-connor.xhtml"/>
 		<itemref idref="the-drunkards-dream.xhtml"/>
