@@ -139,3 +139,7 @@ footer{
 #the-bridal-of-carrigvarah [epub|type~="z3998:letter"] > header > p:first-of-type{
 	font-style: italic;
 }
+
+#the-bridal-of-carrigvarah [epub|type~="z3998:letter"] header [epub|type~="z3998:salutation"]{
+	text-align: initial;
+}
