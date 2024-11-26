@@ -147,3 +147,8 @@ footer{
 #the-bridal-of-carrigvarah [epub|type~="z3998:letter"] header [epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
+
+#scraps-of-hibernian-ballads blockquote > header > p
+{
+font-variant: small-caps;
+}
