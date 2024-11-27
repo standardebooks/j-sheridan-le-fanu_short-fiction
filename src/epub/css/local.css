@@ -148,7 +148,6 @@ footer{
 	text-align: initial;
 }
 
-#scraps-of-hibernian-ballads blockquote > header > p
-{
-font-variant: small-caps;
+#scraps-of-hibernian-ballads blockquote > header > p{
+	font-variant: small-caps;
 }
