@@ -136,6 +136,14 @@ footer{
 	text-align: center;
 }
 
+#mr-justice-harbottle-chapter-5 span[epub|type~="z3998:signature"]{
+	float: right;
+}
+
+#mr-justice-harbottle-chapter-5 footer{
+	margin-top: 0;
+}
+
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
