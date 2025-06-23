@@ -66,4 +66,10 @@
 			<reason>Capitalization confused by abbr tag.</reason>
 		</ignore>
 	</file>
+	<file path="mr-justice-harbottle.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Removed space before header due to right-floated signature.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
