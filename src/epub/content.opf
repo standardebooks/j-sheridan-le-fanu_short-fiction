@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-07-02T18:00:03Z</dc:date>
+		<meta property="dcterms:modified">2025-07-02T18:00:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,8 +52,8 @@
 		<dc:description id="description">A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Irish writer &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;Sheridan Le Fanu&lt;/a&gt; is remembered today as a master of Gothic horror. This collection includes his classic atmospheric ghost stories like “Green Tea” and “The Familiar”—the latter of which &lt;a href="https://standardebooks.org/ebooks/m-r-james"&gt;M. R. James&lt;/a&gt; considered the best of Le Fanu’s ghost stories, and therefore the best ghost story ever written.&lt;/p&gt;
-			&lt;p&gt;But Le Fanu also wrote in genres other than horror. His talent for historical fiction shows in “An Adventure of Hardress Fitzgerald,” set in the aftermath of the Battle of the Boyne. “The Fatal Bride” shows his mastery of Victorian “sensation.” Both of these stories, and many others in this collection, came from the &lt;i&gt;Dublin University Magazine&lt;/i&gt;, where Le Fanu was a regular contributor and later the owner and editor.&lt;/p&gt;
-			&lt;p&gt;Also included are two pioneering vampire stories: “Carmilla,” which profoundly influenced later Irish writer &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Bram Stoker&lt;/a&gt; in creating &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, and the lesser-known 1843 novella “Spalatro.”&lt;/p&gt;
+			&lt;p&gt;But Le Fanu also wrote in genres other than horror. His talent for historical fiction shows in “An Adventure of Hardress Fitzgerald,” set in the aftermath of the Battle of the Boyne, and in “The Fatal Bride” he shows his mastery of Victorian sensation fiction. Both of these stories, and many others in this collection, were first published in the &lt;i&gt;Dublin University Magazine&lt;/i&gt;, where Le Fanu was a regular contributor and later the owner and editor.&lt;/p&gt;
+			&lt;p&gt;Also included are two pioneering vampire stories: “Carmilla,” which profoundly influenced &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Bram Stoker&lt;/a&gt; in creating &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, and the lesser-known 1843 novella “Spalatro.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- SOURCES -->
@@ -149,8 +149,8 @@
 		<dc:source>https://www.google.com/books/edition/Once_a_Week/GthMAAAAMAAJ</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">367404</meta>
+		<meta property="se:reading-ease.flesch">63.02</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-sheridan-le-fanu_short-fiction</meta>
 		<dc:creator id="author">J. Sheridan Le Fanu</dc:creator>
 		<meta property="file-as" refines="#author">Le Fanu, J. Sheridan</meta>
@@ -214,6 +214,9 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-3">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
