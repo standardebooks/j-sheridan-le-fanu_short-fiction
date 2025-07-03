@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="a-chapter-in-the-history-of-a-tyrone-family.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="an-adventure-of-hardress-fitzgerald-a-royalist-captain.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
 	<file path="ghost-stories-of-chapelizod.xhtml">
 		<ignore>
 			<code>y-003</code>
 			<reason>Sentence intentionally ends with no punctuation.</reason>
-		</ignore>
-	</file>
-	<file path="jim-sulivans-adventure-in-the-great-snow.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="scraps-of-hibernian-ballads.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="strange-event-in-the-life-of-schalken-the-painter.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="the-bridal-of-carrigvarah.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="the-last-heir-of-castle-connor.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="the-quare-gander.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="the-drunkards-dream.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
-		</ignore>
-	</file>
-	<file path="passage-in-the-secret-history-of-an-irish-countess.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Capitalization confused by abbr tag.</reason>
 		</ignore>
 	</file>
 	<file path="mr-justice-harbottle.xhtml">
