@@ -150,7 +150,7 @@
 		<dc:source>https://www.google.com/books/edition/Once_a_Week/GthMAAAAMAAJ</dc:source>
 		<!-- Temple Bar vol. 71, source for Hyacinth O'Toole -->
 		<dc:source>https://catalog.hathitrust.org/Record/000500041</dc:source>
-		<meta property="se:word-count">367404</meta>
+		<meta property="se:word-count">364154</meta>
 		<meta property="se:reading-ease.flesch">63.02</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-sheridan-le-fanu_short-fiction</meta>
 		<dc:creator id="author">J. Sheridan Le Fanu</dc:creator>
