@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="ghost-stories-of-chapelizod.xhtml">
 		<ignore code="y-003">
+			<line>14</line>
 			<reason>Sentence intentionally ends with no punctuation.</reason>
 		</ignore>
 	</file>
 	<file path="mr-justice-harbottle.xhtml">
 		<ignore code="c-010">
+			<line>218</line>
 			<reason>Removed space before header due to right-floated signature.</reason>
 		</ignore>
 	</file>
