@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction</dc:identifier>
 		<dc:date>2025-07-02T18:00:03Z</dc:date>
@@ -51,12 +51,12 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Irish writer &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu&lt;/a&gt; is remembered today as a master of Gothic horror. This collection includes his classic atmospheric ghost stories like “Green Tea” and “The Familiar”—the latter of which &lt;a href="https://standardebooks.org/ebooks/m-r-james"&gt;M. R. James&lt;/a&gt; considered the best of Le Fanu’s ghost stories, and therefore the best ghost story ever written.&lt;/p&gt;
 			&lt;p&gt;But Le Fanu also wrote in genres other than horror. His talent for historical fiction shows in “An Adventure of Hardress Fitzgerald,” set in the aftermath of the Battle of the Boyne, and in “The Fatal Bride” he shows his mastery of Victorian sensation fiction. Both of these stories, and many others in this collection, were first published in the &lt;i&gt;Dublin University Magazine&lt;/i&gt;, where Le Fanu was a regular contributor and later the owner and editor.&lt;/p&gt;
 			&lt;p&gt;Also included are two pioneering vampire stories: “Carmilla,” which profoundly influenced &lt;a href="https://standardebooks.org/ebooks/bram-stoker"&gt;Bram Stoker&lt;/a&gt; in creating &lt;a href="https://standardebooks.org/ebooks/bram-stoker/dracula"&gt;&lt;i&gt;Dracula&lt;/i&gt;&lt;/a&gt;, and the lesser-known 1843 novella “Spalatro.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- SOURCES -->
 		<!-- Text Sources -->
