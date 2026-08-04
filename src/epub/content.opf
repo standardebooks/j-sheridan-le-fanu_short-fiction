@@ -51,7 +51,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation.</dc:abstract>
+		<meta property="schema:abstract">A collection of J. Sheridan Le Fanu’s short fiction, including some of his famous ghost stories, gothic horror and sensation.</meta>
 		<dc:description>
 			&lt;p&gt;Irish writer &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu&lt;/a&gt; is remembered today as a master of Gothic horror. This collection includes his classic atmospheric ghost stories like “Green Tea” and “The Familiar”—the latter of which &lt;a href="https://standardebooks.org/ebooks/m-r-james"&gt;M. R. James&lt;/a&gt; considered the best of Le Fanu’s ghost stories, and therefore the best ghost story ever written.&lt;/p&gt;
 			&lt;p&gt;But Le Fanu also wrote in genres other than horror. His talent for historical fiction shows in “An Adventure of Hardress Fitzgerald,” set in the aftermath of the Battle of the Boyne, and in “The Fatal Bride” he shows his mastery of Victorian sensation fiction. Both of these stories, and many others in this collection, were first published in the &lt;i&gt;Dublin University Magazine&lt;/i&gt;, where Le Fanu was a regular contributor and later the owner and editor.&lt;/p&gt;
