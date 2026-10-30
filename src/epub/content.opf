@@ -170,6 +170,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-1" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Andrea Ball</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Ball, Andrea</meta>
@@ -191,10 +193,11 @@
 		<link href="https://www.pgdp.net/" refines="#transcriber-7" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-8">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-8">Mehan, Mary</meta>
+		<meta property="file-as" refines="#transcriber-8">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-9">Project Gutenberg Beginners Projects</dc:contributor>
 		<meta property="file-as" refines="#transcriber-9">Project Gutenberg Beginners Projects</meta>
+		<link href="https://www.gutenberg.org/" refines="#transcriber-9" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-10">Riikka Talonpoika</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Talonpoika, Riikka</meta>
