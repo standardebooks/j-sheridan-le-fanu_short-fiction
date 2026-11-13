@@ -188,8 +188,8 @@
 		<dc:contributor id="transcriber-6">eagkw</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">eagkw</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-7">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-7">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-7" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-8">Mary Meehan</dc:contributor>
